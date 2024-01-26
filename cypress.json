@@ -1,0 +1,17 @@
+{
+  "projectId": "63iq7q",
+  "baseUrl": "https://orchestration.bytespree.com",
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "env": {
+    "loginUrl": "/auth/login",
+    "dashboardUrl": "/dashboard"
+  },
+  "reporter": "spec",
+  "video": true,
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "integrationFolder": "cypress/integration",
+  "supportFile": "cypress/support/index.js",
+  "pluginsFile": "cypress/plugins/index.js"
+}
